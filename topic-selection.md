@@ -9,8 +9,8 @@ headingDivider: [2, 3]
 
 <!-- _class: cover_e -->
 <!-- _paginate: "" -->
-<!-- _footer: ![](image/topic-selection/nju-name.png) -->
-<!-- _header: ![h:100px](image/topic-selection/nju-logo.png) -->
+<!-- _footer: ![h:0](image/topic-selection/nju-name.png) -->
+<!-- _header: ![h:100](image/topic-selection/nju-logo-transparent.png) -->
 
 # 做难而正确的事
 
@@ -26,7 +26,7 @@ headingDivider: [2, 3]
 
 <!-- _class: toc_b -->
 <!-- _footer: "" -->
-<!-- _header: "目录<br/>CONTENTS<br/>![](image/topic-selection/nju-logo.png)" -->
+<!-- _header: "目录<br/>CONTENTS<br/>![](image/topic-selection/nju-logo-transparent.png)" -->
 <!-- _paginate: "" -->
 
 - 根据个人禀赋匹配研究范式
@@ -516,7 +516,7 @@ TODO
 - 复现实验失败（F）：6 篇；
 - 复现完成，结论不符（NR）：5 篇；
 
-换言之，绝大多数的 AI 论文其结论无法被证明。
+换言之，绝大多数的 AI 论文其结论无法被证实。
 
 <!--
 发表在 AAAI 2025 上的这项研究【读 Slide】
@@ -562,9 +562,9 @@ TODO
 
 GPTZero 对 AI 顶会 NIPS'25 发表的 4841 论文进行扫描，发现其中 51 篇论文共包含至少 100 处虚假的幻觉引用，包括但不限于：
 
-- 初级错误（占位符）：参考文献中直接出现占位符姓名，或引用链接指向 example.com 和 404 页面；
-- 中级错误（信息混淆）：引用的论文作者、年份、期卷号或 DOI 被 AI 随机篡改；
-- 高级伪造（凭空捏造）：这些文献在现实世界中完全不存在。
+- 初级错误：参考文献中直接出现占位符姓名，或引用链接指向 example.com 和 404 页面；
+- 中级错误：引用的论文作者、年份、期卷号或 DOI 被 AI 随机篡改；
+- 高级伪造：这些文献在现实世界中完全不存在。
 
 GPTZero 同样对另一个 AI 顶会 ICLR 发起了调查，结论类似：GPTZero finds over 50 new hallucinations in ICLR 2026 submissions。
 
