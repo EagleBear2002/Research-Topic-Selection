@@ -9,8 +9,8 @@ headingDivider: [2, 3]
 
 <!-- _class: cover_e -->
 <!-- _paginate: "" -->
-<!-- _footer: ![](image/topic-selection/1771158408201.png) -->
-<!-- _header: ![h:100px](image/topic-selection/1771158452351.png) -->
+<!-- _footer: ![](image/topic-selection/nju-name.png) -->
+<!-- _header: ![h:100px](image/topic-selection/nju-logo.png) -->
 
 # 做难而正确的事
 
@@ -26,7 +26,7 @@ headingDivider: [2, 3]
 
 <!-- _class: toc_b -->
 <!-- _footer: "" -->
-<!-- _header: "目录CONTENTS<br/>![](image/topic-selection/1771158452351.png)" -->
+<!-- _header: "目录<br/>CONTENTS<br/>![](image/topic-selection/nju-logo.png)" -->
 <!-- _paginate: "" -->
 
 - 根据个人禀赋匹配研究范式
@@ -794,10 +794,10 @@ AI 毫无疑问是当下计算机学科最火热的研究方向，但是这种�
 
 ## 什么是“难而正确的事”？
 
-- 难
+- 难：
     - 需要克服困难去做；
     - 你能做，别人不能，AI 也不能；
-- 正确
+- 正确：
     - 有意义感，有正反馈，能够自得其乐；
     - 不因简单而喜欢，不因短平快而浮躁；
 
